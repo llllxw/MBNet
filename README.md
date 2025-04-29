@@ -1,7 +1,7 @@
 # MBNet
 
 # Introduction
-MMSyn is a multimodal deep learning framework for prediction of synergistic drug combinations by integrating multimodal data.
+MBNet is a multimodal deep learning framework designed to predict whether a compound has a bitter taste.
 
 # Data
 compound_info.csv - SMILES (Simplified molecular input line entry system) of compounds
